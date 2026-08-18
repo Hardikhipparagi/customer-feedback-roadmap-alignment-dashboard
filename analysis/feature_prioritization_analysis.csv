@@ -1,1 +1,16 @@
-
+Feature Requested,Product Area,Feedback_Count,Avg_Sentiment,Avg_Customer_Impact,Avg_Business_Value,Avg_Strategic_Alignment,Avg_Priority,High_Priority_Count,Feature_ID,Planned_Release,Status,Impact_vs_Effort,Recommended_Bucket
+AI Summary Assistant,AI,7,0.19,3.7142857142857144,2.7142857142857144,2.5714285714285716,8.952857142857143,7,F014,Q1,Released,High Impact,Quick Win / Strategic
+API Rate Limit Increase,API,13,0.2323076923076923,2.1538461538461537,3.076923076923077,3.3846153846153846,8.161538461538461,12,F006,Q3,Planned,Low Impact,Fill-in
+Advanced Analytics Dashboard,Analytics,8,0.14750000000000002,3.25,2.625,2.625,7.16625,5,F001,Q3,Planned,Low Impact,Fill-in
+Audit Logs,Security,15,0.2946666666666667,2.3333333333333335,2.8666666666666667,2.933333333333333,8.020666666666667,11,F011,Q4,Planned,Low Impact,Fill-in
+Billing Alerts,Billing,7,0.21714285714285714,2.142857142857143,3.4285714285714284,3.5714285714285716,8.638571428571428,5,F013,Q4,Planned,Low Impact,Fill-in
+Bulk Export,Data Export,5,0.45,2.4,2.0,2.6,7.568,3,F004,Q2,In Progress,Low Impact,Fill-in
+Custom Reports,Analytics,3,-0.1366666666666667,3.6666666666666665,3.6666666666666665,4.0,9.613333333333333,3,F007,Q4,Planned,High Impact,Quick Win / Strategic
+Dark Mode,UI/UX,8,0.065,3.5,3.125,2.75,8.571250000000001,7,F002,Q2,In Progress,High Impact,Quick Win / Strategic
+Faster Search,Search,4,-0.02750000000000001,2.25,3.25,3.75,9.09,4,F009,Q2,In Progress,Low Impact,Fill-in
+Mobile App Improvements,UI/UX,14,0.07642857142857143,3.2857142857142856,2.7857142857142856,2.9285714285714284,8.777857142857142,12,F005,Q4,Planned,Low Impact,Fill-in
+Multi-language Support,Localization,8,0.22625,2.375,3.375,2.875,8.20125,7,F015,Q1,Released,Low Impact,Fill-in
+Onboarding Improvements,UI/UX,6,0.215,2.6666666666666665,1.3333333333333333,2.5,7.315,4,F012,Q2,In Progress,Low Impact,Fill-in
+Role-Based Permissions,Security,5,0.144,2.6,3.4,3.4,8.303999999999998,4,F010,Q3,Planned,Low Impact,Fill-in
+SSO & SCIM,Security,6,0.031666666666666676,2.8333333333333335,3.0,2.6666666666666665,8.003333333333332,4,F003,Q3,Planned,Low Impact,Fill-in
+Slack Integration,Integrations,11,-0.13545454545454544,3.6363636363636362,2.6363636363636362,3.4545454545454546,8.444545454545455,10,F008,Q3,Planned,High Impact,Quick Win / Strategic
